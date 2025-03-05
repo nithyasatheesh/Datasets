@@ -1,0 +1,11 @@
+Return_ID,Customer_ID,Product_ID,Product_Name,Category,Return_Reason,Return_Date,Store_ID,Store_Location,Return_Amount,Fraud_Flag
+1001,C123,P5678,Wireless Headphones,Electronics,Defective,2024-02-15,S001,New York,79.99,No
+1002,C456,P1234,Cotton Shirt,Apparel,Wrong Size,2024-02-18,S002,Los Angeles,29.99,No
+1003,C789,P6789,Smartphone,Electronics,Not as Described,2024-02-20,S001,New York,599.99,No
+1004,C234,P2345,Running Shoes,Footwear,Defective,2024-02-25,S003,Chicago,89.99,No
+1005,C567,P3456,Blender,Home Appliances,Not Working,2024-02-28,S004,Houston,49.99,Yes
+1006,C890,P4567,Leather Jacket,Apparel,Wrong Color,2024-03-02,S002,Los Angeles,99.99,No
+1007,C345,P5678,Wireless Headphones,Electronics,Customer Remorse,2024-03-05,S005,Miami,79.99,No
+1008,C678,P6789,Smartphone,Electronics,Fraudulent Return,2024-03-10,S001,New York,599.99,Yes
+1009,C901,P7890,Dining Table,Furniture,Missing Parts,2024-03-12,S006,Dallas,249.99,No
+1010,C112,P8901,Coffee Maker,Home Appliances,Defective,2024-03-15,S004,Houston,39.99,No
